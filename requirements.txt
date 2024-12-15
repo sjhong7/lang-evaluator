@@ -1,0 +1,4 @@
+nltk
+konlpy
+pandas
+streamlit
